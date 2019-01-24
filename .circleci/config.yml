@@ -7,7 +7,7 @@ jobs:
       - run: sudo npm install jsonlint -g #install jsonlint
       - checkout # check out the code in the project directory
       - run: echo "Validate data is valid json"
-      - run: jsonlint tv/lista.json
-      - run: jsonlint radio/lista.json
-      - run: jsonlint rss/lista.json
-      - run: jsonlint podcast/lista.json
+      - run: jsonlint tv/list.json
+      - run: jsonlint radio/list.json
+      - run: jsonlint rss/list.json
+      - run: jsonlint podcast/list.json
