@@ -4,7 +4,7 @@ jobs:
     docker: # use the docker executor type; machine and macos executors are also supported
       - image: circleci/node:4.8.2 # the primary container, where your job's commands are run
     steps:
-      - run: npm install jsonlint -g #install jsonlint
+      - run: sudo npm install jsonlint -g #install jsonlint
       - checkout # check out the code in the project directory
       - run: echo "Validate data is valid json"
       - run: jsonlint tv/lista.json
