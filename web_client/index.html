@@ -1,1 +1,223 @@
-aaaa - TODO
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.3.1/css/foundation.min.css">
+    <meta charset="utf-8">
+    <title>Media Shqip</title>
+</head>
+
+<body>
+    <div class="container" id="app">
+        <h3 class="text-center">Tere te dhenat</h3>
+
+        <div class="columns medium-3">
+            <div class="card">
+                <div class="card-section">
+                    <p> TV </p>
+                </div>
+                <div class="card-divider">
+        
+                        <section v-if="tv_error">
+                                <p>Gabim ne karikimin e tv..</p>
+                            </section>
+                            <section v-else>
+                                <div v-if="tv_loading">Po karikojme tv...</div>
+                                <div v-else>
+                                    <div  v-if="tvs.length == 0">Asnje tv!</div>
+                                    <ol  v-else>
+                                        <li v-for="tv in tvs">
+                                            {{ tv.emri }}
+                                        </li>
+                                    </ol>
+        
+                                </div>
+                            </section>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="columns medium-3">
+            <div class="card">
+                <div class="card-section">
+                    <p> RADIO </p>
+                </div>
+                <div class="card-divider">
+
+                    <section v-if="radio_error">
+                        <p>Gabim ne karikimin e radiove..</p>
+                    </section>
+                    <section v-else>
+                        <div v-if="radio_loading">Po karikojme radiot...</div>
+                        <div v-else>
+
+                                <div  v-if="radios.length == 0">Asnje radio!</div>
+                                <ol  v-else>
+                                <li v-for="radio in radios">
+                                    {{ radio.emri }} 
+                                    <br/>
+                                    <audio controls="" 
+                                        src="{{ radio.streamingUrl }}" 
+                                        autoplay="0" 
+                                        style="width: 345px; height: 55px;">Instalo nje browser hajri!</audio>
+
+                                  
+                                </li>
+                            </ol>
+
+                        </div>
+                    </section>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="columns medium-3">
+            <div class="card">
+                <div class="card-section">
+                    <p> Podcast </p>
+                </div>
+                <div class="card-divider">
+                    
+                        <section v-if="podcast_error">
+                                <p>Gabim ne karikimin e podcast..</p>
+                            </section>
+                            <section v-else>
+                                <div v-if="podcast_loading">Po karikojme podcat...</div>
+                                <div v-else>
+                                    <div  v-if="podcasts.length == 0">Asnje podcast!</div>
+                                    <ol  v-else>
+                                        <li v-for="podcast in podcasts">
+                                            {{ podcast.emri }}
+                                        </li>
+                                    </ol>
+        
+                                </div>
+                            </section>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="columns medium-3">
+            <div class="card">
+                <div class="card-section">
+                    <p> RSS </p>
+                </div>
+                <div class="card-divider">
+                    
+                        <section v-if="rss_error">
+                                <p>Gabim ne karikimin e rss..</p>
+                            </section>
+                            <section v-else>
+                                <div v-if="rss_loading">Po karikojme rss...</div>
+                                <div v-else>
+                                    <div  v-if="rsss.length == 0">Asnje rss!</div>
+                                    <ol  v-else>
+                                        <li v-for="rss in rsss">
+                                            {{ rss.emri }}
+                                        </li>
+                                    </ol>
+        
+                                </div>
+                            </section>
+
+                </div>
+            </div>
+        </div>
+
+
+
+
+
+
+
+
+
+    </div>
+
+    <script src="https://unpkg.com/vue"></script>
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <script>
+        const base_url = "https://raw.githubusercontent.com/eltonkola/mediashqip/master/";
+        const radio_url = base_url + "radio/list.json";
+        const rss_url = base_url + "rss/list.json";
+        const tv_url = base_url + "tv/list.json";
+        const podcast_url = base_url + "podcast/list.json";
+
+        const vm = new Vue({
+            el: '#app',
+            data() {
+                return {
+                    radios: null,
+                    radio_loading: true,
+                    radio_error: false,
+
+                    tvs: null,
+                    tv_loading: true,
+                    tv_error: false,
+
+                    podcasts: null,
+                    podcast_loading: true,
+                    podcast_error: false,
+
+                    rsss: null,
+                    rss_loading: true,
+                    rss_error: false,
+                }
+            },
+            filters: {
+                currencydecimal(value) {
+                    return value.toFixed(2)
+                }
+            },
+            mounted() {
+                axios.get(radio_url)
+                    .then(response => {
+                        this.radios = response.data
+                    })
+                    .catch(error => {
+                        console.log(error)
+                        this.radio_error = true
+                    })
+                    .finally(() => this.radio_loading = false)
+                
+                axios.get(tv_url)
+                    .then(response => {
+                        this.tvs = response.data
+                    })
+                    .catch(error => {
+                        console.log(error)
+                        this.tv_error = true
+                    })
+                    .finally(() => this.tv_loading = false)
+
+                axios.get(podcast_url)
+                    .then(response => {
+                        this.podcasts = response.data
+                    })
+                    .catch(error => {
+                        console.log(error)
+                        this.podcast_error = true
+                    })
+                    .finally(() => this.podcast_loading = false)
+                
+                
+                axios.get(rss_url)
+                    .then(response => {
+                        this.rsss = response.data
+                    })
+                    .catch(error => {
+                        console.log(error)
+                        this.rss_error = true
+                    })
+                    .finally(() => this.rss_loading = false)
+
+            }
+        });
+
+    </script>
+</body>
+
+</html>
