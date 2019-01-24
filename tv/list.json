@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "emri": "Top News",
+    "pershkrimi": "Top news live nga topChannel",
+    "streamingUrlWeb": "blob:https://www.dailymotion.com/ae42b0ac-bf2e-443d-aab9-3cd11c289eeb;",
+    "streamingUrlMobile": "https://www.dailymotion.com/ae42b0ac-bf2e-443d-aab9-3cd11c289eeb;",
+    "logo": "http://www.topalbaniaradio.com/v7/wp-content/themes/top2016/images/logo9.png",
+    "faqejaWeb": "http://top-channel.tv",
+    "vendi": "Tirane"
+  }
+]

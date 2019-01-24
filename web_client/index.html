@@ -28,6 +28,19 @@
                                     <ol  v-else>
                                         <li v-for="tv in tvs">
                                             {{ tv.emri }}
+                                            <br/>
+                                            
+                                            <video id="dmp_Video" 
+                                            playsinline="" 
+                                            webkit-playsinline="" 
+                                            x-webkit-airplay="allow" 
+                                            operadetachedviewtitle="live tv" 
+                                            style="width: 100%; height: 100%; top: 0px; left: 0px;" 
+                                            v-bind:src="radio.streamingUrlWeb"
+                                            >
+                                                Instalo nje browser te hajrit!
+                                            </video>
+
                                         </li>
                                     </ol>
         
@@ -58,7 +71,7 @@
                                     {{ radio.emri }} 
                                     <br/>
                                     <audio controls="" 
-                                        src="{{ radio.streamingUrl }}" 
+                                    v-bind:src="radio.streamingUrl"
                                         autoplay="0" 
                                         style="width: 345px; height: 55px;">Instalo nje browser hajri!</audio>
 
