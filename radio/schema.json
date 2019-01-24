@@ -1,0 +1,32 @@
+{
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "emri": {
+        "type": "string"
+      },
+      "pershkrimi": {
+        "type": ["string", ""]
+      },
+      "streamingUrl": {
+        "type": ["string"]
+      },
+      "logo": {
+        "type": ["string"]
+      },
+      "faqejaWeb": {
+        "type": ["string", ""]
+      },
+      "webRadio": {
+        "type": ["boolean", true]
+      },
+      "vendi": {
+        "type": ["string", ""]
+      }
+    },
+    "required": [
+      "emri", "streamingUrl", "logo", "vendi"
+    ]
+  }
+}
