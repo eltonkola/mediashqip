@@ -10,3 +10,7 @@ Objektivi i ektij projekti do te jete jo vetem mudnesia e gjithkujt te krijoje n
 
 # te dhenat
 Kjo repo eshte nje liste publike qe permban burime tv, radio, podcast dhe rss. Cdo permbajtje ndodhet ne direktorine perkatese, dhe permban nje file 'list.json', nje nendirektori 'logo' dhe instruksionet mbi formatin e modelit. 
+
+# shembull
+ne afqen e meposhte mund te shikoni nje shembull te nje web applicaioni te thjeshte qe lexon te dehnat nga kjo repo.
+https://eltonkola.github.io/mediashqip/
