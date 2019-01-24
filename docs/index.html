@@ -106,7 +106,7 @@
                                             {{ podcast.emri }}-
                                             <br/>
                                             <iframe 
-                                            v-bind:src="//rss.bloople.net/?url={{podcast.porcastUrl}}&showtitle=false&type=html"
+                                            :src="'//rss.bloople.net/?url=' + podcast.porcastUrl + '&showtitle=false&type=html'"
                                             ></iframe>
                                             
                                         </li>
@@ -139,7 +139,7 @@
                                             {{ rss.emri }}
                                             <br/>
                                             <iframe 
-                                            v-bind:src="//rss.bloople.net/?url={{rss.rssUrl}}&showtitle=false&type=html"
+                                            :src="'//rss.bloople.net/?url=' + rss.rssUrl + '&showtitle=false&type=html'"
                                             ></iframe>
                                     
                                         </li>
