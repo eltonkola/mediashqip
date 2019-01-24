@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "emri": "TopChannel.tv",
+    "pershkrimi": "Lajmet e fundit nga topchannel.tv",
+    "rssUrl": "http://top-channel.tv/feed/;",
+    "logo": "http://top-channel.tv/wp-content/themes/topchannel/assets/images/logo.png",
+    "faqejaWeb": "http://www.topchannel.tv",
+    "vendi": "Tirana"
+  }
+]

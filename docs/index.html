@@ -99,15 +99,15 @@
                             <section v-else>
                                 <div v-if="podcast_loading">Po karikojme podcat...</div>
                                 <div v-else>
-                                    
-                                    <iframe src="//rss.bloople.net/?url=http://top-channel.tv/feed/&showtitle=false&type=html"></iframe>
-                                            
 
                                     <div  v-if="podcasts.length == 0">Asnje podcast!</div>
                                     <ol  v-else>
                                         <li v-for="podcast in podcasts">
                                             {{ podcast.emri }}-
-
+                                            <br/>
+                                            <iframe 
+                                            v-bind:src="//rss.bloople.net/?url={{podcast.porcastUrl}}&showtitle=false&type=html"
+                                            ></iframe>
                                             
                                         </li>
                                     </ol>
@@ -133,13 +133,15 @@
                                 <div v-if="rss_loading">Po karikojme rss...</div>
                                 <div v-else>
                                     
-                                    <iframe src="//rss.bloople.net/?url=http://top-channel.tv/feed/&showtitle=false&type=html"></iframe>
-                                            
-
                                     <div  v-if="rsss.length == 0">Asnje rss!</div>
                                     <ol  v-else>
                                         <li v-for="rss in rsss">
                                             {{ rss.emri }}
+                                            <br/>
+                                            <iframe 
+                                            v-bind:src="//rss.bloople.net/?url={{rss.rssUrl}}&showtitle=false&type=html"
+                                            ></iframe>
+                                    
                                         </li>
                                     </ol>
         
