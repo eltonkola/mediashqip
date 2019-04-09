@@ -1,21 +1,66 @@
 [
+ 
+  {
+    "emri": "Rtk1",
+    "pershkrimi": "Kosova",
+    "streamingUrlWeb": "http://176.31.74.161:8081/live/rtk1/playlist.m3u8",
+    "streamingUrlMobile": "http://176.31.74.161:8081/live/rtk1/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/tv/logo/tv_rtk1.png",
+    "faqejaWeb": "http://www.rtklive.com",
+    "vendi": "Kosove",
+    "publikuar": true
+  },
+  {
+    "emri": "Rtk2",
+    "pershkrimi": "Kosova",
+    "streamingUrlWeb": "http://176.31.74.161:8081/live/rtk2/playlist.m3u8",
+    "streamingUrlMobile": "http://176.31.74.161:8081/live/rtk2/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/tv/logo/tv_rtk2.png",
+    "faqejaWeb": "http://www.rtklive.com",
+    "vendi": "Kosove",
+    "publikuar": true
+  },
+  {
+    "emri": "Rtk3",
+    "pershkrimi": "Kosova",
+    "streamingUrlWeb": "http://176.31.74.161:8081/live/rtk3/playlist.m3u8",
+    "streamingUrlMobile": "http://176.31.74.161:8081/live/rtk3/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/tv/logo/tv_rtk3.png",
+    "faqejaWeb": "http://www.rtklive.com",
+    "vendi": "Kosove",
+    "publikuar": true
+  },
+  {
+    "emri": "Rtk4",
+    "pershkrimi": "Kosova",
+    "streamingUrlWeb": "http://176.31.74.161:8081/live/rtk4/playlist.m3u8",
+    "streamingUrlMobile": "http://176.31.74.161:8081/live/rtk4/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/tv/logo/tv_rtk4.png",
+    "faqejaWeb": "http://www.rtklive.com",
+    "vendi": "Kosove",
+    "publikuar": true
+  },
+
+
   {
     "emri": "Top News",
     "pershkrimi": "Top news live nga topChannel",
     "streamingUrlWeb": "https://stream-04.nyc.dailymotion.com/sec(Rt6MMB82ZLcHsd-t3Q1irfJaW7f7AJbOuke6JyVbBZw)/dm/3/x6inuzo/live.m3u8",
     "streamingUrlMobile": "https://stream-04.nyc.dailymotion.com/sec(Rt6MMB82ZLcHsd-t3Q1irfJaW7f7AJbOuke6JyVbBZw)/dm/3/x6inuzo/live.m3u8",
-    "logo": "https://en.wikipedia.org/wiki/Top_News#/media/File:Top-news-logo.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/tv/logo/top_news.png",
     "faqejaWeb": "http://top-channel.tv",
-    "vendi": "Tirane"
+    "vendi": "Tirane",
+    "publikuar": true
   },
   {
     "emri": "Tv Apollon",
     "pershkrimi": "Muzike shqip",
     "streamingUrlWeb": "https://5a78c1f33fb75.streamlock.net:4443/SUNS6837RygCHJJBtWfF/smil:SMILNOAO_6837RygCHJJBtWfF.smil/manifest.m3u8",
     "streamingUrlMobile": "https://5a78c1f33fb75.streamlock.net:4443/SUNS6837RygCHJJBtWfF/smil:SMILNOAO_6837RygCHJJBtWfF.smil/manifest.m3u8",
-    "logo": "http://www.apollon.tv/wp-content/uploads/2018/05/apollon-tv.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/tv/logo/apollon.jpg",
     "faqejaWeb": "http://www.apollon.tv/",
-    "vendi": "Fier"
+    "vendi": "Fier",
+    "publikuar": true
   }
   
   
