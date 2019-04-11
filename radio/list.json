@@ -1,865 +1,962 @@
-[{
+[
+  {
     "emri": "Alpo Radio",
     "pershkrimi": "Vizioni i ri ne jugun e Shqiperise - Gjirokaster Shqiperi",
     "streamingUrl": "http://195.154.194.142:8379/;stream.mp3",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/alpo.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/alpo.png",
     "faqejaWeb": "http://www.alpomedia.com",
     "webRadio": true,
     "publikuar": true,
     "vendi": "franca"
-}, {
+  },
+  {
     "emri": "Radio Gurbeti",
     "pershkrimi": "Radiogurbeti ju ben per veti",
     "streamingUrl": "http://192.184.9.79:8218/;stream.mp3",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/gurbeti.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/gurbeti.png",
     "faqejaWeb": "http://gurbeti.com/",
     "webRadio": true,
     "publikuar": true,
     "vendi": "kosova"
-}, {
+  },
+  {
     "emri": "Radio Mergimi",
     "pershkrimi": "Ju faliminderojmë të gjith juve që keni zgjedhur radion tonë për ta dëgjuar dhe për të qenë antarë i familjes së mërgimtarëve",
     "streamingUrl": "http://144.76.33.185:8000",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/mergimi.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/mergimi.png",
     "faqejaWeb": "http://www.radiomergimi.com",
     "webRadio": true,
     "publikuar": true,
     "vendi": "kosova"
-}, {
+  },
+  {
     "emri": "Vintage Radio",
     "pershkrimi": "From Shkodra with Love and Good Music",
     "streamingUrl": "http://195.154.194.142:8577/;stream.mp3",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/vintageradio.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/vintageradio.png",
     "faqejaWeb": "http://vintageradio.al",
     "webRadio": true,
     "publikuar": true,
     "vendi": "franca"
-}, {
+  },
+  {
     "emri": "Radio Marimanga radio Live ne internet 24/7 . Radio e cila ju ngjet per muri dhe ju len pa frym. Radio e cila sben dallime Krahinash se nga vini, Ketu te gjith jeni te mirseardhur.",
     "pershkrimi": "Line",
     "streamingUrl": "http://91.82.85.71:9084/;stream/mp3",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/marimanga.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/marimanga.png",
     "faqejaWeb": "http://www.radiomarimanga.com",
     "webRadio": true,
     "publikuar": true,
     "vendi": "danimark"
-}, {
+  },
+  {
     "emri": "Radio pendimi",
     "pershkrimi": "Me emrin e Allahut, të Gjithmëshirshmit, Mëshiruesit Radio Pendimi është Radio Islame në gjuhën shqipe, që filloi punën e saj në Tetor të vitit 2006",
     "streamingUrl": "http://radio-pendimi.com:8000/;stream.mp3",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/pendimi.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/pendimi.png",
     "faqejaWeb": "http://radio-pendimi.com",
     "webRadio": true,
     "publikuar": true,
     "vendi": "kosova"
-}, {
+  },
+  {
     "emri": "Radio Viciana",
     "pershkrimi": "Ship live",
     "streamingUrl": "http://viciana.no-ip.org:8000/;stream/1",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/viciana.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/viciana.png",
     "faqejaWeb": "http://www.radioviciana.com",
     "webRadio": true,
     "publikuar": true,
     "vendi": "kosova"
-}, {
+  },
+  {
     "emri": "Rradio Projekt",
     "pershkrimi": "Sa me afer me ne aq me afer me realitetin",
     "streamingUrl": "http://64.150.176.42:8178/;stream/1",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/projekt.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/projekt.png",
     "faqejaWeb": "http://www.radioprojekt.dk",
     "webRadio": true,
     "publikuar": true,
     "vendi": "danimark"
-}, {
+  },
+  {
     "emri": "Radio Zhelina",
     "pershkrimi": "Radio Zhelina, Always With You",
     "streamingUrl": "http://server13.radiozhelina.com:8000/;stream.mp3",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/zhelina.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/zhelina.png",
     "faqejaWeb": "http://www.radiozhelina.com",
     "webRadio": true,
     "publikuar": true,
     "vendi": "maqedonia"
-}, {
+  },
+  {
     "emri": "Radio Rapsodet",
     "pershkrimi": "Ne jemi me afer vendlindjes",
     "streamingUrl": "http://46.4.104.253:9978/;stream/1",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/rapsodet.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/rapsodet.png",
     "faqejaWeb": "http://radiorapsodet.com",
     "webRadio": true,
     "publikuar": true,
     "vendi": "shqiperia"
-}, {
+  },
+  {
     "emri": "Radio Fontana",
     "pershkrimi": "Radio Fontana, për më tepër cilësohet si një Radio shumë Popullore, qe u jepë hapsirë e mundësi shfaqje te mendimit të gjitha shtresave të shoqërisë, pa dallim moshe e gjinie, e sidomos jemi present shumë ne Diasporën Shqiptare në të gjithë Botën si ne Europë, Amerikë e qak edhe deri ne Australi. Përnga përmbajtja programore, kemi laryshi emisonesh nga më të ndryshmet, duke përfshi Emisione për të gjitha shtresat dhe moshat e degjuesve, duke I kushtu kujdes të veqant vlerave Kombëtare e Morale.",
     "streamingUrl": "http://46.4.104.253:8010/;stream.mp3",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/fontana.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/fontana.png",
     "faqejaWeb": "http://www.radiofontana.org",
     "webRadio": true,
     "publikuar": true,
     "vendi": "shqiperia"
-}, {
+  },
+  {
     "emri": "Radio Deqani",
     "pershkrimi": "Kosove - Deqan",
     "streamingUrl": "http://streaming.jusahost.com:9994/;stream.mp3",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/deqani.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/deqani.png",
     "faqejaWeb": "http://www.radiodeqani.net",
     "webRadio": true,
     "publikuar": true,
     "vendi": "kosova"
-}, {
+  },
+  {
     "emri": "Radio Besa",
     "pershkrimi": "Radio Besa 100 % Muzike shqipetare",
     "streamingUrl": "http://radio-besa.com:8800/;mp3",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/besa.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/besa.png",
     "faqejaWeb": "http://radiobesa.net",
     "webRadio": true,
     "publikuar": true,
     "vendi": "kosova"
-}, {
+  },
+  {
     "emri": "Radio Tetova",
     "pershkrimi": " (njelloj si radiopajtimi)Internet",
     "streamingUrl": "http://topradiotetova.myftp.biz:8000/;stream/1",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/tetova.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/tetova.png",
     "faqejaWeb": "http://radiotetova1.blogspot.mk/",
     "webRadio": true,
     "publikuar": true,
     "vendi": "maqedonia"
-}, {
+  },
+  {
     "emri": "Radio Kosova",
     "pershkrimi": "Radio Television of Kosovo is the public service broadcaster in Kosovo. ",
     "streamingUrl": "http://82.114.72.2:8088/;stream.mp3",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/kosova.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/kosova.png",
     "faqejaWeb": "http://www.rtklive.com",
     "webRadio": true,
     "publikuar": true,
     "vendi": "kosova"
-}, {
+  },
+  {
     "emri": "Radio Dashuria",
     "pershkrimi": "Internet",
     "streamingUrl": "http://192.184.9.158:8227/;",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/dashuria.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/dashuria.png",
     "faqejaWeb": "http://www.radiodashuria.al",
     "webRadio": true,
     "publikuar": true,
     "vendi": "anglia"
-}, {
+  },
+  {
     "emri": "Top Albania Radio",
     "pershkrimi": "Top Albania Radio promovon muzikën më të zgjedhur shqiptare dhe të huaj, me edicionet informative dhe nje larmi programesh kulturore. 18 vjet transmetim, për të dhënë më të mirën.",
     "streamingUrl": "http://tar.stream.dev.al:9078/;stream/1",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/tar.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/tar.png",
     "faqejaWeb": "null",
     "webRadio": true,
     "publikuar": true,
     "vendi": "shqiperia"
-}, {
+  },
+  {
     "emri": "Rradio Llapi",
     "pershkrimi": "Radio per te gjithe",
     "streamingUrl": "http://radio.1dhe1.com:8555/;stream/mp3",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/llapi.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/llapi.png",
     "faqejaWeb": "http://radiollapi.com",
     "webRadio": true,
     "publikuar": true,
     "vendi": "kosova"
-}, {
+  },
+  {
     "emri": "Radio Emigranti",
     "pershkrimi": "Radio Emigranti është një web-radio shqip që është mundësuar nga një bashkëpunim midis Vlorenj.Com dhe RadioEmigranti.Com. Kjo radio mund të dëgjohet me një kompjuter që përmban një program që \"lexon\" formatin mp3 si Windows Media Player, Real Player, iTunes dhe shumë të tjerë. ",
     "streamingUrl": "http://www.radioemigranti.com:8000/radio",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/emigranti.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/emigranti.png",
     "faqejaWeb": "http://www.radioemigranti.com",
     "webRadio": true,
     "publikuar": true,
     "vendi": "shqiperia"
-}, {
+  },
+  {
     "emri": "Radio Alba",
     "pershkrimi": "Shqiperi",
     "streamingUrl": "http://streaming.jusahost.com:9222/;stream.mp3",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/alba.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/alba.png",
     "faqejaWeb": "http://www.radio-alba.com/",
     "webRadio": true,
     "publikuar": true,
     "vendi": "zvicer"
-}, {
+  },
+  {
     "emri": "Radio Pajtimi",
     "pershkrimi": "Internet",
     "streamingUrl": "http://www.radiopajtimi.com:8000/;stream/1",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/pajtimi.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/pajtimi.png",
     "faqejaWeb": "http://www.radiopajtimi.com",
     "webRadio": true,
     "publikuar": true,
     "vendi": "kosova"
-}, {
+  },
+  {
     "emri": "Radio Sllatina",
     "pershkrimi": "Katër vjet pas themelimit , “ Radiosllatina”, po etablohet gjithnjë e më shumë si një radio e cila po rritë dëgjueshmërinë në te gjitha trevat shqiptare. Duke ndjekur trendet e fundit të teknologjisë, do vjazhdojme te sjellim te reja dhe cilesi në dizajnimin dhe permbajtjen e programit tonë. ",
     "streamingUrl": "http://50.7.76.251:9300/;?.mp3/;",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/stallina.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/stallina.png",
     "faqejaWeb": "null",
     "webRadio": true,
     "publikuar": true,
     "vendi": "kosova"
-}, {
+  },
+  {
     "emri": "Radio Vip Fm 99.2",
     "pershkrimi": "Radioja e pare me app custom",
     "streamingUrl": "http://eu3.fastcast4u.com:5334/;stream/mp3",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/vipfm.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/vipfm.png",
     "faqejaWeb": "http://www.vipfm.net",
     "webRadio": true,
     "publikuar": true,
     "vendi": "shqiperia"
-}, {
+  },
+  {
     "emri": "RadioZemra",
     "pershkrimi": "Gjihmone me ju",
     "streamingUrl": "http://radio-zemra.eu:8000/;stream.mp3",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/zemra.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/zemra.png",
     "faqejaWeb": "http://www.zemra.de",
     "webRadio": true,
     "publikuar": true,
     "vendi": "kosova"
-}, {
+  },
+  {
     "emri": "Radio Krenaria",
     "pershkrimi": " Atë që e udhëzon Allahu s`ka kush që e humb, ndërsa atë që e humb Allahu s`ka kush që e udhëzon!",
     "streamingUrl": "http://62.75.137.33:8008/;stream.mp3",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/krenaria.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/krenaria.png",
     "faqejaWeb": "http://krenaria.com/",
     "webRadio": true,
     "publikuar": true,
     "vendi": "kosova"
-}, {
+  },
+  {
     "emri": "Radio Vala Rinore",
     "pershkrimi": "Radio Vala Rinore Kosove",
     "streamingUrl": "http://84.22.46.10:8000/;stream/1",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/valarinore.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/valarinore.png",
     "faqejaWeb": "http://www.radiovalarinore.com",
     "webRadio": true,
     "publikuar": true,
     "vendi": "kosova"
-}, {
+  },
+  {
     "emri": "Zeri i Gostivarit",
     "pershkrimi": "Programi jon do të jet sa ma shumë shqip, pa dashur ta nënqmojm askend ! Kemi shumë melodi të bukura shqipe, pse të marrim nga të tjerët ! Ne do mundohemi që në kuader të programit ton të kemi muzikë të zgjedhur shqip",
     "streamingUrl": "http://78.46.52.186:18362;stream.mp3",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/zerigostivarit.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/zerigostivarit.png",
     "faqejaWeb": "http://www.radiozerigv.com/",
     "webRadio": true,
     "publikuar": true,
     "vendi": "kosova"
-}, {
+  },
+  {
     "emri": "Radio myzeqeja ",
     "pershkrimi": "Eshte nje radio me arome myzeqare popullore",
     "streamingUrl": "http://eu4.fastcast4u.com:5166/;stream/mp3",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/myzeqeja.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/myzeqeja.png",
     "faqejaWeb": "http://myzeqeja.com",
     "webRadio": true,
     "publikuar": true,
     "vendi": "shqiperia"
-}, {
+  },
+  {
     "emri": "Radio Dedi 24",
     "pershkrimi": "Internet",
     "streamingUrl": "http://radiodedi24.com:8000/;stream/1",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/dedi24.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/dedi24.png",
     "faqejaWeb": "null",
     "webRadio": true,
     "publikuar": true,
     "vendi": "kosova"
-}, {
+  },
+  {
     "emri": "Radio Vizioni",
     "pershkrimi": "Kosove - Podujeve",
     "streamingUrl": "http://www.vera-ks.com:9222/;stream/1",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/vizioni.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/vizioni.png",
     "faqejaWeb": "http://www.radio-vizioni.com",
     "webRadio": true,
     "publikuar": true,
     "vendi": "kosova"
-}, {
+  },
+  {
     "emri": "Radio Rainca",
     "pershkrimi": "Gjitmone sa me afer jush",
     "streamingUrl": "http://radiorainca.com:8000/;stream.mp3",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/rainca.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/rainca.png",
     "faqejaWeb": "http://www.radiorainca.com",
     "webRadio": true,
     "publikuar": true,
     "vendi": "zvicer"
-}, {
+  },
+  {
     "emri": "Radio Perendimi",
     "pershkrimi": "Radio Perendimi eshte Radio Islame e cila eshte themeluar me 24.05.2013 ne Londer.",
     "streamingUrl": "http://radioperendimi.net:7000/;stream/mp3",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/perendimi.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/perendimi.png",
     "faqejaWeb": "http://radioperendimi.net",
     "webRadio": true,
     "publikuar": true,
     "vendi": "anglia"
-}, {
+  },
+  {
     "emri": "Radio Lushnja",
     "pershkrimi": "Radio Lushnja – Melodia Juaj",
     "streamingUrl": "http://74.221.215.47:8000/;stream.mp3",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/lushnja.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/lushnja.png",
     "faqejaWeb": "http://radiolushnja.com/",
     "webRadio": true,
     "publikuar": true,
     "vendi": "shqiperia"
-}, {
+  },
+  {
     "emri": "Top Gold Radio",
     "pershkrimi": "Top Gold Radio filloi transmetimin e saj on air me 01 Tetor 1999.Pjesen me te madhe te kesaj radioje e ze muzika,me transmetim 24 oresh.Muzika nuk ka nje ndarje te vecante,pervec faktit se kenget dhe melodite jane cmuar dhe afirmuar me pare. Kryesisht perdoret muzike para viteve 2000,ose ndryshe nje perzgjedhje e me te mires nder vite.",
     "streamingUrl": "http://tar.stream.dev.al:9080/;stream/1",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/topgold.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/topgold.png",
     "faqejaWeb": "http://www.topgold.al",
     "webRadio": true,
     "publikuar": true,
     "vendi": "shqiperia"
-}, {
+  },
+  {
     "emri": "Radio Bledi",
     "pershkrimi": "Internet",
     "streamingUrl": "http://radiobled.myftp.biz:9000/;stream/1",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/bledi.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/bledi.png",
     "faqejaWeb": "null",
     "webRadio": true,
     "publikuar": true,
     "vendi": "shqiperia"
-}, {
+  },
+  {
     "emri": "Radio Rinia",
     "pershkrimi": "Behu pjese e nje bote argetii - Gjilan",
     "streamingUrl": "http://5.189.158.54:9200/;stream.mp3",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/rinia.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/rinia.png",
     "faqejaWeb": "http://radiorinia.com/",
     "webRadio": true,
     "publikuar": true,
     "vendi": "kosova"
-}, {
+  },
+  {
     "emri": "Radio Zeri Shtimes",
     "pershkrimi": "Radio Zeri i Shtimes eshte Radio e pavarur private. Ka filluar te transmetoje program me dt: 24 qershor 1999. Emeton program ne frekuencat FM stereo 89.60 MHz. Aktualisht transmeton program ditor 17 oresh, nga ora  08:00 ne mengjes deri ne ora 01:00 pas mesnate. Programi i kesaj Radio deporton ne pjesen me te madhe te komunave te Kosoves, e me rastin e transmetimit ne internet tani ne te gjithe boten.",
     "streamingUrl": "http://5.189.158.54:8090/;stream/mp3",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/zerishtimes.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/zerishtimes.png",
     "faqejaWeb": "http://www.radiozeri.info",
     "webRadio": true,
     "publikuar": true,
     "vendi": "kosova"
-}, {
+  },
+  {
     "emri": "Radio Jug",
     "pershkrimi": "Radio-Televizioni “Jug” u krijua me një synim të caktuar në fushën e masmedias per të sjellë një zë origjinal, krejtësisht ndryshe dhe për të plotësuar një vakum mediatik që kishin lënë pas mediat elektronike në rajonin e Fierit.",
     "streamingUrl": "http://84.20.77.50:8000/;stream/1",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/jug.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/jug.png",
     "faqejaWeb": "http://www.radiojug.com",
     "webRadio": true,
     "publikuar": true,
     "vendi": "shqiperia"
-}, {
+  },
+  {
     "emri": "Radio k4",
     "pershkrimi": "Këto ditë, në qoftë se ju doni të dëgjoni muzikë, ka shumë shërbime në internet ku mund të përpiloni listen tuaj personale të përbërë nga këngë që ju i pëlqeni, përveç kësaj edhe kompjuteri mund ti shtojë këngët tjera të cilat do të përshtaten me preferencat tuaja. ",
     "streamingUrl": "http://151.80.214.150:5080/;stream.mp3",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/k4.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/k4.png",
     "faqejaWeb": "null",
     "webRadio": true,
     "publikuar": true,
     "vendi": "kosova"
-}, {
+  },
+  {
     "emri": "Radio Tirana 1",
     "pershkrimi": "RADIO TIRANA Drejtpërdrejt",
     "streamingUrl": "http://37.59.32.115:5160/;stream.mp3",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/tirana1.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/tirana1.png",
     "faqejaWeb": "null",
     "webRadio": true,
     "publikuar": true,
     "vendi": "shqiperia"
-}, {
+  },
+  {
     "emri": "Radio Tirana 3",
     "pershkrimi": "Radio Tirana për bashkëatdhetarët mbulon një program krijimtarie prej 4 orë e 30 minuta. Destinacioni i tyre ështe bota shqiptare në trojet etnike dhe emigracion në Europë, SHBA dhe Kanada.",
     "streamingUrl": "http://37.59.32.115:5164/;stream.mp3",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/tirana3.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/tirana3.png",
     "faqejaWeb": "null",
     "webRadio": true,
     "publikuar": true,
     "vendi": "shqiperia"
-}, {
+  },
+  {
     "emri": "Radio Tirana 2",
     "pershkrimi": "RADIO TIRANA 2- 95.8 MHz Programi i dytë i Radio Tirana ka vazhduar transmetimin e tij 24 orë me argëtim e informacion. ",
     "streamingUrl": "http://37.59.32.115:5162/;stream.mp3",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/tirana2.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/tirana2.png",
     "faqejaWeb": "null",
     "webRadio": true,
     "publikuar": true,
     "vendi": "shqiperia"
-}, {
+  },
+  {
     "emri": "Blue Sky Radio",
     "pershkrimi": "TV Blue Sky is the TOP 1 Music Television of Northern Albania and Malesia of Montenegro.",
     "streamingUrl": "http://82.114.72.2:8098/;stream/1",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/bluesky.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/bluesky.png",
     "faqejaWeb": "http://blueskymusic.tv",
     "webRadio": true,
     "publikuar": true,
     "vendi": "franca"
-}, {
+  },
+  {
     "emri": "Radio Dardania",
     "pershkrimi": "24 ore Radio Dardania LIVE - Ndegjoni Radio Dardania 100% Shqip. ",
     "streamingUrl": "http://radio.radiodardania.com:4000/;",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/radiodardania.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/radiodardania.png",
     "faqejaWeb": "https://www.radiodardania.com",
     "webRadio": true,
     "publikuar": true,
     "vendi": "franca"
-}, {
+  },
+  {
     "emri": "Dardania Hits",
     "pershkrimi": "24 ore Radio Dardania LIVE - Ndegjoni Radio Dardania 100% Shqip. ",
     "streamingUrl": "http://s2.voscast.com:8824/;stream.mp3",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/dardaniahits.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/dardaniahits.png",
     "faqejaWeb": "http://www.dukagjini.com",
     "webRadio": true,
     "publikuar": true,
     "vendi": "kosova"
-}, {
+  },
+  {
     "emri": "Radio Gjakova",
     "pershkrimi": "Live nga gjakova",
     "streamingUrl": "http://37.26.69.30:8080/;stream.mp3",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/gjakova.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/gjakova.png",
     "faqejaWeb": "http://www.radiogjakova.info",
     "webRadio": true,
     "publikuar": true,
     "vendi": "kosova"
-}, {
+  },
+  {
     "emri": "Radio Haracina",
     "pershkrimi": "Offline - Radio Haracina - Shkup",
     "streamingUrl": "http://5.9.78.9:8002/;.mp3",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/haracina.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/haracina.png",
     "faqejaWeb": "http://www.radioharacina.com/",
     "webRadio": true,
     "publikuar": true,
     "vendi": "maqedonia"
-}, {
+  },
+  {
     "emri": "Radio Kontakt",
     "pershkrimi": "Kenaqesia e dites tuaj",
     "streamingUrl": "http://46.252.34.91:88/broadwavehigh.mp3",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/kontakt.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/kontakt.png",
     "faqejaWeb": "http://radiokontakt.al/",
     "webRadio": true,
     "publikuar": true,
     "vendi": "shqiperia"
-}, {
+  },
+  {
     "emri": "4 plus radio",
     "pershkrimi": "Live nga Fieri/Lusnja. Radioja 4 Plus transmeton 24 orë në frekuencën 98.3 mgh. Në RTV tonë transmetohen informacione ditore dhe komente, kulturë, art, muzikë, argëtim, zbavitje, ekranizime emisione për talentet, sport, publicitet etj.",
     "streamingUrl": "http://74.221.215.47:8080/;stream/1",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/4plusradio.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/4plusradio.png",
     "faqejaWeb": "http://4plusmedia.tv",
     "webRadio": true,
     "publikuar": true,
     "vendi": "franca"
-}, {
+  },
+  {
     "emri": "Radio Dukagjini",
     "pershkrimi": "Radio live nga Kosova",
     "streamingUrl": "http://s2.voscast.com:8826/;stream.mp3",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/dukagjini.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/dukagjini.png",
     "faqejaWeb": "http://www.dukagjini.com/",
     "webRadio": true,
     "publikuar": true,
     "vendi": "kosova"
-}, {
+  },
+  {
     "emri": "Radio Dukagjini Love",
     "pershkrimi": "Dukagjini Love Radio",
     "streamingUrl": "http://198.178.123.5:8828/;stream.mp3",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/dukagjini_loveradio.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/dukagjini_loveradio.png",
     "faqejaWeb": "http://www.dukagjini.com/",
     "webRadio": true,
     "publikuar": true,
     "vendi": "kosova"
-}, {
+  },
+  {
     "emri": "Radio Shqip (Dukagjini)",
     "pershkrimi": "Dukagjini Shqip Radio",
     "streamingUrl": "http://198.178.123.5:8828/;stream.mp3",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/dukagjini_shqipradio.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/dukagjini_shqipradio.png",
     "faqejaWeb": "http://www.dukagjini.com/",
     "webRadio": true,
     "publikuar": true,
     "vendi": "kosova"
-}, {
+  },
+  {
     "emri": "Radio Yjet",
     "pershkrimi": "http://www.radioyjet.com/",
     "streamingUrl": "http://77.92.64.44:8308",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/yjet.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/yjet.png",
     "faqejaWeb": "http://www.radioyjet.com/",
     "webRadio": true,
     "publikuar": true,
     "vendi": "kosova"
-}, {
+  },
+  {
     "emri": "Radio Atdheu",
     "pershkrimi": "Internet - offline",
     "streamingUrl": "http://167.114.207.237:9978/;stream.mp3",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/atdheu.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/atdheu.png",
     "faqejaWeb": "",
     "webRadio": true,
     "publikuar": true,
     "vendi": "danimark"
-}, {
+  },
+  {
     "emri": "Radio Fama",
     "pershkrimi": "Radio FAMA - Tetove ju sherben dhe i mbulon me radio sinjal kualitativ qytetet Tetove dhe Gostivar ne numer afersisht 350.000 degjues potencial.",
     "streamingUrl": "http://fama.radiofama.org:7000",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/famai.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/famai.png",
     "faqejaWeb": "http://www.radiofama.org",
     "webRadio": true,
     "publikuar": true,
     "vendi": "maqedonia"
-}, {
+  },
+  {
     "emri": "Alfa dhe Omega Radio",
     "pershkrimi": "Alfa \u0026 Omega Radio eshte nje media qe percjell tek degjuesit shpresen e gjalle. E ka nisur rrugetimin e vet ne korrik te vitit 1999 ne Tirane (Shqiperi) dhe transmeton ne frequencen102.6 MHz si dhe ne streaming ne www.alfaeomegaradio.com. Qellimi i saj eshte qe nepermjet programeve te shumellojshme e kengeve te zgjedhura te perhape Fjalen e Perendise, te ndihmoje degjuesit qe te kuptojne se kane nevoje per Jezusin si Shpetimtarin e tyre personal. Ne te njejten kohe ajo synon te rrise e te forcoje ne besim te gjithe besimtaret ne udhetimin e tyre me Zotin. Ju ftojme te na ndiqni çdo dite per te gjetur ne trasmetimet inkurajim, paqe e dashuri.",
     "streamingUrl": "http://cp11.shoutcheap.com:8037/;stream/1",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/alfadheomega.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/alfadheomega.png",
     "faqejaWeb": "http://alfaeomegaradio.com/",
     "webRadio": true,
     "publikuar": true,
     "vendi": "franca"
-}, {
+  },
+  {
     "emri": "Radio Koha",
     "pershkrimi": "RadioKoha është njëra ndër radiot që do të ofroj cilësi në programin e saj, çdo herë do të jetë me risi të reja, radio që shpërndan kulturë, jep knaqësi dhe disponon çdo herë ndëgjuesit e saj të mrekullueshëm, me emisione të larmishme, gjithashtu do të kujdeset edhe për afirmimin e bisnesit tuaj.",
     "streamingUrl": "http://74.208.121.41:8000/;",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/radiokoha.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/radiokoha.png",
     "faqejaWeb": "http://radiokoha.com/",
     "webRadio": true,
     "publikuar": true,
     "vendi": "kosova"
-}, {
+  },
+  {
     "emri": "Radio Kalabria",
     "pershkrimi": "ME JU DHE VETËM PËR JU -RADIO KALABRIA-PRISHTINË- REPUBLIKA E KOSOVËS",
     "streamingUrl": "http://46.4.104.253:9992/;stream.mp3",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/kalabria.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/kalabria.png",
     "faqejaWeb": "http://radiokalabria.com",
     "webRadio": true,
     "publikuar": true,
     "vendi": "shqiperia"
-}, {
+  },
+  {
     "emri": "Radio Vicianum",
     "pershkrimi": "Radio Vicianum 105.7 MHz FM stereo rr. \"Faruk Beqiri\" pn 42000 Vushtrri, Kosova",
     "streamingUrl": "http://streaming.shoutcast.com/RadioVicianumVushtrri?type\u003d.mp3/;stream.mp3",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/Radio%20Vicianum%20loggo.JPG",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/Radio%20Vicianum%20loggo.JPG",
     "faqejaWeb": "null",
     "webRadio": true,
     "publikuar": true,
     "vendi": "kosova"
-}, {
+  },
+  {
     "emri": "Radio Vati",
     "pershkrimi": "21 vite bashke me ju - Maqedoni",
     "streamingUrl": "http://radiostream.neotel.mk:8000/radiovati",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/vati.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/vati.png",
     "faqejaWeb": "http://www.vati.com.mk",
     "webRadio": true,
     "publikuar": true,
     "vendi": "maqedonia"
-}, {
+  },
+  {
     "emri": "Radio Positive Gold",
     "pershkrimi": "Where the GOOD music lives!Positive Gold radio brings the best of music from last 50 years , especially focused on the 80\u0027s music.24 hours of pure music lounge.",
     "streamingUrl": "http://gold.positivegoldfm.net:8070",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/positivegold.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/positivegold.png",
     "faqejaWeb": "http://www.positivegoldfm.com/",
     "webRadio": true,
     "publikuar": true,
     "vendi": "shqiperia"
-}, {
+  },
+  {
     "emri": "Radio Select",
     "pershkrimi": "Radio Select",
     "streamingUrl": "http://mili.radioselect.net:10091/;stream.mp3",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/radio_select.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/radio_select.png",
     "faqejaWeb": "http://radioselect.net/",
     "webRadio": true,
     "publikuar": true,
     "vendi": "shqiperia"
-}, {
+  },
+  {
     "emri": "club fm",
     "pershkrimi": "kape radion",
     "streamingUrl": "http://109.69.2.44:7500/;stream/mp3",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/clubfm.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/clubfm.png",
     "faqejaWeb": "http://www.clubfm.al/",
     "webRadio": true,
     "publikuar": true,
     "vendi": "shqiperia"
-}, {
+  },
+  {
     "emri": "Radio Natyra",
     "pershkrimi": "Cdo natė duke filluar nga ora 20:00 / 22:00 , Ndėrsa nga ora 22:00 / 24:00 Emisioni i Nates.",
     "streamingUrl": "http://77.68.42.107:8000/;stream.mp3",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/natyra.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/natyra.png",
     "faqejaWeb": "http://www.radionatyra.com/",
     "webRadio": true,
     "publikuar": true,
     "vendi": "anglia"
-}, {
+  },
+  {
     "emri": "Radio Kosova e lire",
     "pershkrimi": "Radio Kosova e Lirë 94.2FM",
     "streamingUrl": "http://188.165.192.5:8018/stream/;stream/mp3",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/kosovaelire.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/kosovaelire.png",
     "faqejaWeb": "http://www.radiokosovaelire.com/",
     "webRadio": true,
     "publikuar": true,
     "vendi": "kosova"
-}, {
+  },
+  {
     "emri": "Radio Bleta",
     "pershkrimi": "Maqedoni - Tetove ",
     "streamingUrl": "http://stream.tvkoha.tv:5000/;stream.mp3",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/bleta.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/bleta.png",
     "faqejaWeb": "http://www.tvkoha.tv/radio-bleta-live",
     "webRadio": true,
     "publikuar": true,
     "vendi": "maqedonia"
-}, {
+  },
+  {
     "emri": "Radio Feja Islame",
     "pershkrimi": "Falënderimet dhe nderimet tona janë për All-llahun xh.sh., Zotin e botëve, i cili i udhëzoi krijesat (njerëzimin) në edukatën më të përsosur; për Atë që nga arka e mëshirës dhe e bujarisë së Vet hapi çdo derë, i ndriçoi sytë e besimtarëve për të njohur të vërtetën dhe për të kërkuar shpërblimin e Tij, ndërsa, Ai i errësoi sytë e mohuesve (kundërshtarëve të Zotit) për shkak të kryeneçësisë së tyre për t\u0027iu përulur Atij, çdo gjë u bë pengesë mes tyre dhe dritës së All-llahut xh.sh. Falënderimi i takon All-lahut i Cili na pajisi me dije dhe na bëri të vetëdijshëm. Falënderimi i takon Sunduesit së ditës së Gjykimit i Cili veprat tona i vendos në peshore për të qenë të shpëtuar ose të humbur.",
     "streamingUrl": "http://server5.digital-webstream.de:33725/;stream/1",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/fejaislame.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/fejaislame.png",
     "faqejaWeb": "http://www.radioislame.com/",
     "webRadio": true,
     "publikuar": true,
     "vendi": "kosova"
-}, {
+  },
+  {
     "emri": "Radio Jehona",
     "pershkrimi": "Radio Jehona 103.5 Val qe jehojne kudo...",
     "streamingUrl": "http://s26.myradiostream.com:10030/;stream.nsv",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/jehona.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/jehona.png",
     "faqejaWeb": "http://radiojehona.com.mk/",
     "webRadio": true,
     "publikuar": true,
     "vendi": "maqedonia"
-}, {
+  },
+  {
     "emri": "Radio Drenica",
     "pershkrimi": "Kosove - Drenice",
     "streamingUrl": "http://ns5.albaservers.com:8010/;stream.mp3",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/drenica.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/drenica.png",
     "faqejaWeb": "http://radiodrenica.blogspot.com",
     "webRadio": true,
     "publikuar": true,
     "vendi": "kosova"
-}, {
+  },
+  {
     "emri": "Radio Drenasi",
     "pershkrimi": "Kosove",
     "streamingUrl": "http://rd.albaservers.com:8010/;live",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/logo.png",
     "faqejaWeb": "https://www.radiodrenasi.com/",
     "webRadio": true,
     "publikuar": true,
     "vendi": "kosova"
-}, {
+  },
+  {
     "emri": "Radio Urban Fm",
     "pershkrimi": "Muzike urbane nga Kosova",
     "streamingUrl": "http://46.19.224.157:8000/;stream/1",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/urbanfm.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/urbanfm.png",
     "faqejaWeb": "http://radiourbanfm.com/",
     "webRadio": true,
     "publikuar": true,
     "vendi": "kosova"
-}, {
+  },
+  {
     "emri": "Radio Knaqu de.gg",
     "pershkrimi": "Radio Knaqu Muzik Për Të Gjitha Moshat",
     "streamingUrl": "http://stm43.srvstm.com:21554/;stream.mp3;",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/knaqu.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/knaqu.png",
     "faqejaWeb": "http://www.radioknaqu.gnx.at",
     "webRadio": true,
     "publikuar": true,
     "vendi": "kosova"
-}, {
+  },
+  {
     "emri": "Alba Radio",
     "pershkrimi": "AlbaRadio lindi si nevoj dhe ide e Dj Rapper ( Esmer Ismajlit) nga hulumtimet e tija, për një kohë të shkurt AlbaRadio-AR u be shumë edegjuar sa që redaksia e radios nen udheheqjen e Kadri Ismajlin nuk e besoj, nga shumë radio interneti AR bëri një emër dhe gjeti dëgjuesit e vetë. Sot AR e degjojnë me mijëra dëgjues me emisionet, sicë janë:-Projekti Integrues Së Bashku qe perkrahet edhe financiarisht nga Kantonet gjermanofolese ne Zvicer",
     "streamingUrl": "http://aradmin.ch:8000/;stream/1",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/albaradio.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/albaradio.png",
     "faqejaWeb": "http://www.albaradio.ch/",
     "webRadio": true,
     "publikuar": true,
     "vendi": "zvicer"
-}, {
+  },
+  {
     "emri": "Q Music Radio",
     "pershkrimi": "Belgjike",
     "streamingUrl": "http://icecast-qmusic.cdp.triple-it.nl/Qmusic_be_live_96.mp3?type\u003d.mp3/;stream.mp3",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/qmusic.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/qmusic.png",
     "faqejaWeb": "null",
     "webRadio": true,
     "publikuar": true,
     "vendi": "shqiperia"
-}, {
+  },
+  {
     "emri": "Radio Maria",
     "pershkrimi": "Historia e Radio Marisë në Shqipëri filloi në vitin 1995 kur z. Emanuele Ferrario kërkoi mënyrat për të bërë të mundur dëgjimin e Radio Marisë në gjuhën italiane në vendin tonë. Kjo gjë u bë e mundur në vitin 1998 në disa pjesë të Shqipërisë, në Shkodër, Tiranë dhe Elbasan. Në të njëjtin vit filluan edhe kontaktet e para për hapjen e Radio Marisë në gjuhën shqipe, gjë që për arsye të ndryshme do të realizohej vetëm më 19 korrik 2003.",
     "streamingUrl": "http://dreamsiteradiocp2.com:8028/;",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/radio_maria.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/radio_maria.png",
     "faqejaWeb": "https://www.radiomaria.al",
     "webRadio": true,
     "publikuar": true,
     "vendi": "shqiperia"
-}, {
+  },
+  {
     "emri": "Radio Rrapi",
     "pershkrimi": "Maqedoni",
     "streamingUrl": "http://ss1.mk.checast.com:21296/48.aac",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/rrapi.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/rrapi.png",
     "faqejaWeb": "http://rrapi.mk/",
     "webRadio": true,
     "publikuar": true,
     "vendi": "maqedonia"
-}, {
+  },
+  {
     "emri": "Rradio Sharri",
     "pershkrimi": "Radio SHARRI, është transmetuesi i parë në Kosovë, i themeluar në Dragash, vetëm 10 ditë pas përfundimit të luftës, më 25 qershor 1999. Aktualisht, valët tona shtrihen në hapësirën territoriale, e cila përfshinë rreth 500 mijë banorë. Saktësisht, valët tona mbulojnë Jugperëndimin e Kosovës dhe Verilindjen e Shqipërisë, ndërkohë që, përmes internetit, valët tona mbulojnë mbarë Globin, me sinjal të pastër, sipas teknologjisë më të fundit.",
     "streamingUrl": "http://live.radio-sharri.info:8020/;stream/1",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/sharri.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/sharri.png",
     "faqejaWeb": "http://radio-sharri.info/",
     "webRadio": true,
     "publikuar": true,
     "vendi": "kosova"
-}, {
+  },
+  {
     "emri": "Radio Zeri i Arberit",
     "pershkrimi": "Zeri juaj autentik",
     "streamingUrl": "http://s8.streammonster.com:8210/;stream/1",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/zeriarberit.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/zeriarberit.png",
     "faqejaWeb": "http://www.zeriarberit.com/",
     "webRadio": true,
     "publikuar": true,
     "vendi": "norvegji"
-}, {
+  },
+  {
     "emri": "Radio Ilirida",
     "pershkrimi": "Internet - offline",
     "streamingUrl": "http://146.185.18.251:2199/;stream.mp3",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/ilirida.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/ilirida.png",
     "faqejaWeb": "http://radioilirida.it/",
     "webRadio": true,
     "publikuar": true,
     "vendi": "italia"
-}, {
+  },
+  {
     "emri": "Radio Travel",
     "pershkrimi": "Gjithcka mbi industrine e udhetimit te njohur gjeresisht si Travel. Ku te kalojme pasditen, fundjaven, pushimet. Sa kushtojne dhe cilat jane mundesite me te mira e me te lira te sezonit. Si te zgjedhim nji destinacion. Muzika me e mire per tu degjuar ne udhetim. No colour, no genre, just travel music.",
     "streamingUrl": "http://93.190.141.15:7253/live/;stream.mp3",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/travel.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/travel.png",
     "faqejaWeb": "http://radiotravel.al/",
     "webRadio": true,
     "publikuar": true,
     "vendi": "shqiperia"
-}, {
+  },
+  {
     "emri": "Radio Merova",
     "pershkrimi": "Administrator: Enes Sulejmani",
     "streamingUrl": "http://31.220.29.45:9984;stream.mp3",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/LOagNvU.jpg",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/LOagNvU.jpg",
     "faqejaWeb": "http://www.radiomerova.com/",
     "webRadio": true,
     "publikuar": true,
     "vendi": "kosova"
-}, {
+  },
+  {
     "emri": "Radio Struga",
     "pershkrimi": "Struga - Maqedoni",
     "streamingUrl": "http://ss1.mk.checast.com:21292/48.aac",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/struga.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/struga.png",
     "faqejaWeb": "http://www.playfm.mk",
     "webRadio": true,
     "publikuar": true,
     "vendi": "maqedonia"
-}, {
+  },
+  {
     "emri": "Radio Elita",
     "pershkrimi": "ElitaRadio është e zgjedhur vetëm për ju, me ju ElitaRadio jeton në pafundësi…!",
     "streamingUrl": "http://stm11.srvstm.com:26124/;stream.mp3",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/radioelita.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/radioelita.png",
     "faqejaWeb": "http://elitaradio.net",
     "webRadio": true,
     "publikuar": true,
     "vendi": "shqiperia"
-}, {
+  },
+  {
     "emri": "Pro Fm",
     "pershkrimi": "Gostivar - maqedoni",
     "streamingUrl": "http://ss1.mk.checast.com:21072/32.aac",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/profm.jpg",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/profm.jpg",
     "faqejaWeb": "http://profm.com.mk",
     "webRadio": true,
     "publikuar": true,
     "vendi": "maqedonia"
-}, {
+  },
+  {
     "emri": "Radio Ylberi",
     "pershkrimi": "Kosove",
     "streamingUrl": "http://radio.1dhe1.com:9600/;stream.mp3",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/ylberi.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/ylberi.png",
     "faqejaWeb": "http://radioylberi.net/",
     "webRadio": true,
     "publikuar": true,
     "vendi": "kosova"
-}, {
+  },
+  {
     "emri": "Radio Geneva",
     "pershkrimi": "radio shqip live streaming",
     "streamingUrl": "http://46.4.28.213:8128/;stream/1",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/geneval.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/geneval.png",
     "faqejaWeb": "http://www.radiogeneva.ch",
     "webRadio": true,
     "publikuar": true,
     "vendi": "zvicer"
-}, {
+  },
+  {
     "emri": "Radio Udhezimi",
     "pershkrimi": "radio islamike - offline",
     "streamingUrl": "http://46.4.104.253:9998;stream.mp3",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/udhezimi.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/udhezimi.png",
     "faqejaWeb": "null",
     "webRadio": true,
     "publikuar": true,
     "vendi": "shqiperia"
-}, {
+  },
+  {
     "emri": "Albanian Baby Radio",
     "pershkrimi": "Kenge shqip per vogelushin/vogelushen tuaj",
     "streamingUrl": "http://50.22.218.197:3441/stream",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/3QYlVfJl.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/3QYlVfJl.png",
     "faqejaWeb": "http://albanianbaby.radiostream123.com",
     "webRadio": true,
     "publikuar": true,
     "vendi": "shqiperia"
-}, {
+  },
+  {
     "emri": "Radio Klea",
     "pershkrimi": "Radio e pare e qytetit te Elbasanit. Tarnsmeton qe nga dt 24.05.2002,muzike shqip, informacione dhe argetim.",
     "streamingUrl": "http://78.129.189.182:25948",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/klea.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/klea.png",
     "faqejaWeb": "http://radioklea.listen2myshow.com",
     "webRadio": true,
     "publikuar": true,
     "vendi": "shqiperia"
-}, {
+  },
+  {
     "emri": "Amc love radio",
     "pershkrimi": "Love Radio is a radio station based in Tirana, the capital of Albania. The station broadcasts mostly pop ballads.",
     "streamingUrl": "http://95.107.173.168:6200/;stream.mp3",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/amcloveradio.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/amcloveradio.png",
     "faqejaWeb": "http://www.loveradio.al/",
     "webRadio": true,
     "publikuar": true,
     "vendi": "shqiperia"
-}, {
+  },
+  {
     "emri": "Radio Drini",
     "pershkrimi": "web radio shqip",
     "streamingUrl": "http://78.129.234.163/stream.mp3?ipport\u003d78.129.234.163_36470",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/drini.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/drini.png",
     "faqejaWeb": "http://radiodrini.myl2mr.com/",
     "webRadio": true,
     "publikuar": true,
     "vendi": "shqiperia"
-}, {
+  },
+  {
     "emri": "NRG - Hit Music Louder",
     "pershkrimi": "NRG ENERGY is your news, entertainment, music website. We provide you with the latest breaking news and videos straight from the entertainment industry.",
     "streamingUrl": "http://ice31.securenetsystems.net/AL09;",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/nrg.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/nrg.png",
     "faqejaWeb": "http://www.radionrg.al",
     "webRadio": true,
     "publikuar": true,
     "vendi": "shqiperia"
-}, {
+  },
+  {
     "emri": "Radio Dee-Jay",
     "pershkrimi": "Whats Up Radio DJ 96.1 mhz",
     "streamingUrl": "http://80.78.76.171:6500/;*.mp3",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/deejay.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/deejay.png",
     "faqejaWeb": "http://www.radiodj.al/",
     "webRadio": true,
     "publikuar": true,
     "vendi": "shqiperia"
-}, {
+  },
+  {
     "emri": "Radio ABC",
     "pershkrimi": "offline - Shqiperi - Korce",
     "streamingUrl": "http://delicious.wavestreamer.com:1716/live",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/abckorce.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/abckorce.png",
     "faqejaWeb": "null",
     "webRadio": true,
     "publikuar": true,
     "vendi": "danimark"
-}, {
+  },
+  {
     "emri": "Radio Stacioni",
     "pershkrimi": "offline ",
     "streamingUrl": "http://80.91.125.99:88/broadwave.mp3?src\u003d1\u0026rate\u003d1",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/radiostacioni.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/radiostacioni.png",
     "faqejaWeb": "null",
     "webRadio": true,
     "publikuar": true,
     "vendi": "shqiperia"
-}, {
+  },
+  {
     "emri": "Mitro Fm",
     "pershkrimi": "offline",
     "streamingUrl": "http://stream-140.shoutcast.com:80/tophits_skyfm_mp3_96kbps",
-    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/mitro.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/mitro.png",
     "faqejaWeb": "http://www.mitrofm.com/",
     "webRadio": true,
     "publikuar": true,
     "vendi": "shqiperia"
-}]
+  }
+]
