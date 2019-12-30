@@ -1055,13 +1055,13 @@
   {
     "emri": "Radio Struga",
     "pershkrimi": "Struga - Maqedoni",
-    "streamingUrl": "http://ss1.mk.checast.com:21292/48.aac",
+    "streamingUrl": "http://live.playfm.mk:8000",
     "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/struga.png",
     "faqejaWeb": "http://www.playfm.mk",
     "webRadio": true,
     "publikuar": true,
     "vendi": "maqedonia",
-    "scrapeUrl": "",
+    "scrapeUrl": "http://www.playfm.mk",
     "zgjedhur": false,
     "orderz": 0
   },
