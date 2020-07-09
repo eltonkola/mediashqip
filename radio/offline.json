@@ -107,21 +107,6 @@
         "orderz": 0
     },
     {
-        "emri": "Albanian Baby Radio",
-        "pershkrimi": "Kenge shqip per vogelushin/vogelushen tuaj",
-        "streamingUrl": "https://radioshqip.localtunnel.me/radio/8010/radio.mp3",
-        "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/albanian_baby_radio_logo.png",
-        "faqejaWeb": "http://albanianbaby.radiostream123.com",
-        "webRadio": true,
-        "publikuar": false,
-        "vendi": "shqiperia",
-        "scrapeUrl": "",
-        "zgjedhur": false,
-        "orderz": 0
-    },
-
-
-    {
         "emri": "Radio Merova",
         "pershkrimi": "Administrator: Enes Sulejmani",
         "streamingUrl": "http://31.220.29.45:9984;stream.mp3",

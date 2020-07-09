@@ -116,6 +116,19 @@
         "orderz": 0
     },
     {
+        "emri": "Albanian Baby Radio",
+        "pershkrimi": "Kenge shqip per vogelushin/vogelushen tuaj",
+        "streamingUrl": "http://stream.zeno.fm/zyq38mba04zuv",
+        "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/albanian_baby_radio_logo.png",
+        "faqejaWeb": "http://albanianbaby.radiostream123.com",
+        "webRadio": true,
+        "publikuar": true,
+        "vendi": "shqiperia",
+        "scrapeUrl": "",
+        "zgjedhur": false,
+        "orderz": 0
+    },
+    {
         "emri": "Radio pendimi",
         "pershkrimi": "Me emrin e Allahut, të Gjithmëshirshmit, Mëshiruesit Radio Pendimi është Radio Islame në gjuhën shqipe, që filloi punën e saj në Tetor të vitit 2006",
         "streamingUrl": "http://radio-pendimi.com:8008/;stream.mp3",
