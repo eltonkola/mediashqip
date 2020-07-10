@@ -1,4 +1,17 @@
 [{
+        "emri": "Radio Lepurushja",
+        "pershkrimi": "Muzika me e bukur per lepurushen time",
+        "streamingUrl": "http://stream.zeno.fm/0xd1ryz504zuv",
+        "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/lepurushja.png",
+        "faqejaWeb": "https://zeno.fm/lepurushja/",
+        "webRadio": true,
+        "publikuar": true,
+        "vendi": "franca",
+        "scrapeUrl": "https://zeno.fm/lepurushja/",
+        "zgjedhur": false,
+        "orderz": 0
+    },
+    {
         "emri": "Alpo Radio",
         "pershkrimi": "Vizioni i ri ne jugun e Shqiperise - Gjirokaster Shqiperi",
         "streamingUrl": "http://62.210.24.124:8379/;stream.mp3",
