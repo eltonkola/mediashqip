@@ -23,7 +23,6 @@
     "faqejaWeb": "https://360grade.al",
     "vendi": "Tirana"
   },
-
   {
     "emri": "Albeu",
     "pershkrimi": "Portali Albeu.com, Lajmet e fundit, shqiperi, kosove, maqedoni",
@@ -113,94 +112,60 @@
     "faqejaWeb": "https://www.monitor.al/",
     "vendi": "Tirane"
   },
-
-
- {
+  {
     "emri": "shekulli",
     "pershkrimi": "gazeta shekulli",
     "rssUrl": "http://shekulli.com.al/feed/",
-     "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/rss/logo/shekulli.jpg",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/rss/logo/shekulli.jpg",
     "faqejaWeb": "http://shekulli.com.al",
     "vendi": "Tirane"
   },
-
-
-
-
-
-   {
+  {
     "emri": "telegrafi",
     "pershkrimi": "telegrafi.com",
     "rssUrl": "https://telegrafi.com/feed/",
-    "logo": "https://telegrafi.com/wp-content/uploads/2017/02/telegrafi_logo.svg",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/rss/logo/telegrafi.jpg",
     "faqejaWeb": "https://telegrafi.com/feed/",
     "vendi": "Tirane"
   },
-
-
-
-   {
+  {
     "emri": "tiranatimes",
     "pershkrimi": "tiranatimes.com",
     "rssUrl": "http://www.tiranatimes.com/?feed=rss2",
-    "logo": "http://www.gazetatema.net/wp-content/uploads/2016/01/logo1.jpg",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/rss/logo/tiranatimes.jpg",
     "faqejaWeb": "http://www.tiranatimes.com/",
     "vendi": "Tirane"
   },
-
-
-
- {
+  {
     "emri": "Zeri Popullit",
     "pershkrimi": "Gazeta e partise socialiste",
-    "rssUrl": "http://zeri-popullit.al/feed/",
-    "logo": "http://45b.c50.myftpupload.com/wp-content/uploads/2018/07/zeripopullitlogo-300x78.png",
+    "rssUrl": "https://zeri-popullit.al/feed/",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/rss/logo/zeripopullit.jpg",
     "faqejaWeb": "http://zeri-popullit.al",
     "vendi": "Tirane"
   },
-
-
- {
+  {
     "emri": "standard",
     "pershkrimi": "standard.al",
     "rssUrl": "http://www.standard.al/feed/",
-    "logo": "http://www.gazetatema.net/wp-content/uploads/2016/01/logo1.jpg",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/rss/logo/standard.jpg",
     "faqejaWeb": "http://www.standard.al",
     "vendi": "Tirane"
   },
-
- {
+  {
     "emri": "Rilindja Demokratike",
     "pershkrimi": "Gazeta e partise dempkratike",
     "rssUrl": "http://www.rd.al/feed/",
-    "logo": "http://www.rd.al/wp-content/uploads/2016/03/RD-Logo-web-4.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/rss/logo/rd.jpg",
     "faqejaWeb": "http://www.rd.al",
     "vendi": "Tirane"
   },
-
-
- {
+  {
     "emri": "gazeta ekonomia",
     "pershkrimi": "gazetaekonomia.com",
-    "rssUrl": "http://gazetaekonomia.com/feed/",
-    "logo": "https://i1.wp.com/gazetaekonomia.com/wp-content/uploads/2017/10/gekonomia_logo.png?w=336",
-    "faqejaWeb": "http://gazetaekonomia.com",
+    "rssUrl": "https://gazetaekonomia.com/feed/",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/rss/logo/gekonomia.jpg",
+    "faqejaWeb": "https://gazetaekonomia.com",
     "vendi": "Tirane"
   }
-
-
-
-
-  {
-    "emri": "ballikombit",
-    "pershkrimi": "gazeta balliste",
-    "rssUrl": "http://www.ballikombit.org/index.php?option=com_rss&feed=RSS2.0&no_html=1",
-    "logo": "http://www.ballikombit.org/templates/waterandstone/images/logo.gif",
-    "faqejaWeb": "http://www.ballikombit.org",
-    "vendi": "Tirana"
-  },
-
-
-
-
 ]
