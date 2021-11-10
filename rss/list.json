@@ -2,26 +2,24 @@
   {
     "emri": "TopChannel.tv",
     "pershkrimi": "Lajmet e fundit nga topchannel.tv",
-    "rssUrl": "http://top-channel.tv/feed/;",
-    "logo": "http://top-channel.tv/wp-content/themes/topchannel/assets/images/logo.png",
+    "rssUrl": "https://top-channel.tv/feed",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/rss/logo/top_channel.jpg",
     "faqejaWeb": "http://www.topchannel.tv",
     "vendi": "Tirana"
   },
-
   {
     "emri": "24-ore",
     "pershkrimi": "24 ore lajme",
     "rssUrl": "http://24-ore.com/?feed=rss2",
-    "logo": "http://24-ore.com/wp-content/uploads/2014/06/logo.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/rss/logo/24_ore.jpg",
     "faqejaWeb": "http://24-ore.com",
     "vendi": "Tirana"
   },
-
   {
     "emri": "360grade",
     "pershkrimi": "360grade nga Artur Xheji",
     "rssUrl": "https://360grade.al/feed/",
-    "logo": "https://360grade.al/wp-content/themes/360grade/images/logo.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/rss/logo/360.jpg",
     "faqejaWeb": "https://360grade.al",
     "vendi": "Tirana"
   },
@@ -29,314 +27,89 @@
   {
     "emri": "Albeu",
     "pershkrimi": "Portali Albeu.com, Lajmet e fundit, shqiperi, kosove, maqedoni",
-    "rssUrl": "https://www.albeu.com/rss/rss.php",
-    "kategoriteRss": [
-    	{
-    		"emri": "News from Albania",
-    		"rssUrl": "https://www.albeu.com/rss/rss.php?kat=news"
-    	},
-    	{
-    		"emri": "Shqiperi",
-    		"rssUrl": "https://www.albeu.com/rss/rss.php?kat=shqiperi"
-    	},
-    	{
-    		"emri": "Kosove",
-    		"rssUrl": "https://www.albeu.com/rss/rss.php?kat=kosove"
-    	},
-    	{
-    		"emri": "Maqedoni",
-    		"rssUrl": "https://www.albeu.com/rss/rss.php?kat=maqedoni"
-    	},
-    	{
-    		"emri": "Sport",
-    		"rssUrl": "https://www.albeu.com/rss/rss.php?kat=sport"
-    	},
-    	{
-    		"emri": "Teknologji",
-    		"rssUrl": "https://www.albeu.com/rss/rss.php?kat=teknologji"
-    	},
-    	{
-    		"emri": "Bota",
-    		"rssUrl": "https://www.albeu.com/rss/rss.php?kat=bota"
-    	},
-    	{
-    		"emri": "ShowBiz",
-    		"rssUrl": "https://www.albeu.com/rss/rss.php?kat=bota-e-yjeve"
-    	},
-    	{
-    		"emri": "Lifestyle",
-    		"rssUrl": "https://www.albeu.com/rss/rss.php?kat=lifestyle"
-    	},
-    	{
-    		"emri": "Argetim",
-    		"rssUrl": "https://www.albeu.com/rss/rss.php?kat=interesante"
-    	},
-    	{
-    		"emri": "Ekonomi",
-    		"rssUrl": "https://www.albeu.com/rss/rss.php?kat=ekonomi"
-    	}
-    ],
-    "logo": "http://www.albeu.com/img/logo-bardh.png",
+    "rssUrl": "https://albeu.com/feed/",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/rss/logo/albeu.jpg",
     "faqejaWeb": "https://www.albeu.com",
     "vendi": "Internacional"
   },
-{
-    "emri": "balkanweb",
-    "pershkrimi": "Portali web",
-    "rssUrl": "https://balkanweb.com/feed/",
-    "kategoriteRss": [
-    	{
-    		"emri": "Prurje për Komentet",
-    		"rssUrl": "https://balkanweb.com/comments/feed/"
-    	}
-    ],
-    "logo": "https://balkanweb.com/wp-content/themes/balkanweb/images/bw_logo18.png",
-    "faqejaWeb": "https://balkanweb.com",
-    "vendi": "Tirane"
-  },
-
   {
-    "emri": "ballikombit",
-    "pershkrimi": "gazeta balliste",
-    "rssUrl": "http://www.ballikombit.org/index.php?option=com_rss&feed=RSS2.0&no_html=1",
-    "logo": "http://www.ballikombit.org/templates/waterandstone/images/logo.gif",
-    "faqejaWeb": "http://www.ballikombit.org",
-    "vendi": "Tirana"
-  },
-
-{
     "emri": "cna",
     "pershkrimi": "City News Albania",
     "rssUrl": "https://www.cna.al/feed/",
-    "kategoriteRss": [
-    	{
-    		"emri": "Komentet",
-    		"rssUrl": "https://www.cna.al/comments/feed/"
-    	}
-    ],
-    "logo": "https://www.cna.al/wp-content/uploads/2018/02/logo-nav.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/rss/logo/cna.jpg",
     "faqejaWeb": "https://www.cna.al",
     "vendi": "Tirane"
   },
-
-{
-    "emri": "dritare",
-    "pershkrimi": "dritare nga Rudina Xhunga & Dritan Hila",
-    "rssUrl": "https://dritare.net/feed/",
-    "kategoriteRss": [
-    	{
-    		"emri": "Komentet",
-    		"rssUrl": "https://dritare.net/comments/feed/"
-    	},
-    	{
-    		"emri": "Alternative",
-    		"rssUrl": "https://dritare.net/dritare-net-2/feed/"
-    	}
-    ],
-    "logo": "https://dritare.net/wp-content/uploads/2018/10/logofinaledritare.png",
-    "faqejaWeb": "https://dritare.net",
-    "vendi": "Tirane"
-  },
-
   {
-    "emri": "gazeta55",
-    "pershkrimi": "gazete e djathte",
-    "rssUrl": "https://www.gazeta55.net/?format=feed&type=rss",
-    "logo": "https://www.gazeta55.net/templates/ts_dailytimes/images/logo.png",
-    "faqejaWeb": "https://www.gazeta55.net/",
-    "vendi": "Tirana"
-  },
-
-{
     "emri": "gazetadita",
     "pershkrimi": "gazetadita",
     "rssUrl": "http://www.gazetadita.al/feed/",
-    "kategoriteRss": [
-    	{
-    		"emri": "Komentet",
-    		"rssUrl": "http://www.gazetadita.al/comments/feed/"
-    	}
-    ],
-    "logo": "http://www.gazetadita.al/wp-content/uploads/2017/11/sswagger-logo.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/rss/logo/dita.jpg",
     "faqejaWeb": "http://www.gazetadita.al",
     "vendi": "Tirane"
   },
-{
+  {
     "emri": "gazetamapo",
     "pershkrimi": "Ndikimi në debatin dhe veprimtarinë e aktorëve shoqëror përmes përthyerjes së ngjarjeve dhe fenomeneve me interes publik",
     "rssUrl": "https://gazetamapo.al/feed/",
-    "kategoriteRss": [
-    	{
-    		"emri": "Komentet",
-    		"rssUrl": "https://gazetamapo.al/comments/feed/"
-    	}
-    ],
-    "logo": "https://www.mapo.al/wp-content/uploads/2017/09/mapo1n.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/rss/logo/mapo.jpg",
     "faqejaWeb": "http://www.gazetamapo.al",
     "vendi": "Tirane"
   },
-
-{
+  {
     "emri": "shendeti",
     "pershkrimi": "gazeta shendeti",
     "rssUrl": "https://shendeti.com.al/feed/",
-    "kategoriteRss": [
-    	{
-    		"emri": "Komentet",
-    		"rssUrl": "https://shendeti.com.al/comments/feed/"
-    	}
-    ],
-    "logo": "https://shendeti.com.al/wp-content/uploads/2017/05/logo-shendeti.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/rss/logo/shendeti.jpg",
     "faqejaWeb": "https://shendeti.com.al",
     "vendi": "Tirane"
   },
-{
+  {
     "emri": "Gazeta Shqiptare",
     "pershkrimi": "Gazeta Shqiptare Online",
     "rssUrl": "http://www.gsh.al/feed/",
-    "kategoriteRss": [
-    	{
-    		"emri": "Komentet",
-    		"rssUrl": "http://www.gsh.al/comments/feed/"
-    	}
-    ],
     "pdfUrl":"http://www.gsh.al/wp-content/uploads/vvvv/mm/dd_mm_vvvv_gsh.pdf",
-    "logo": "http://www.gsh.al/wp-content/themes/gazeta_shqiptare/dist/images/logo.svg",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/rss/logo/gazetashqiptare.jpg",
     "faqejaWeb": "http://www.gsh.al",
     "vendi": "Tirane"
   },
-
   {
-    "emri": "integrimi",
-    "pershkrimi": "Gazeta e LSI",
-    "rssUrl": "http://integrimi.al/feed/",
-    "kategoriteRss": [
-    	{
-    		"emri": "Komentet",
-    		"rssUrl": "http://integrimi.al/comments/feed/"
-    	}
-    ],
-    "logo": "http://integrimi.al/wp-content/themes/integrimi/images/logo.svg",
-    "faqejaWeb": "http://integrimi.al/",
-    "vendi": "Tirane"
-  },
- {
     "emri": "javanews",
     "pershkrimi": "javanews",
     "rssUrl": "https://www.javanews.al/feed/",
-    "kategoriteRss": [
-    	{
-    		"emri": "Komentet",
-    		"rssUrl": "https://www.javanews.al/comments/feed/"
-    	}
-    ],
-    "logo": "https://www.javanews.al/wp-content/uploads/2019/06/java-news-logo-1.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/rss/logo/java.jpg",
     "faqejaWeb": "https://www.javanews.al/",
     "vendi": "Tirane"
   },
-
- {
-    "emri": "Koha Jone",
-    "pershkrimi": "Koha Jone themeluar si e pavarur me datë 11 Maj 1991",
-    "rssUrl": "https://www.kohajone.com/feed/",
-    "kategoriteRss": [
-    	{
-    		"emri": "News",
-    		"rssUrl": "https://www.kohajone.com/news/feed/"
-    	},
-    	{
-    		"emri": "Komentet",
-    		"rssUrl": "https://www.kohajone.com/comments/feed/"
-    	}
-    ],
-    "logo": "http://www.kohajone.com/wp-content/uploads/2017/12/koha-jone-logo-1.png",
-    "faqejaWeb": "http://www.kohajone.com",
-    "vendi": "Tirane"
-  },
-
-
- {
-    "emri": "lajme.al",
-    "pershkrimi": "lajme al",
-    "rssUrl": "https://www.lajme.al/feed/",
-    "kategoriteRss": [
-    	{
-    		"emri": "Komentet",
-    		"rssUrl": "https://www.lajme.al/comments/feed/"
-    	}
-    ],
-    "logo": "http://www.lajme.al/wp-content/uploads/2018/04/LAJME.AL-logo.png",
-    "faqejaWeb": "https://www.lajme.al/",
-    "vendi": "Tirane"
-  },
-
-
- {
+  {
     "emri": "Lapsi.al",
     "pershkrimi": "Lapsi.al është një media online, që ka për qëllim informimin e paanshëm duke vënë profesionalizmin në plan të parë",
     "rssUrl": "https://lapsi.al/feed/",
-    "kategoriteRss": [
-    	{
-    		"emri": "Komentet",
-    		"rssUrl": "https://lapsi.al/comments/feed/"
-    	},
-    	{
-    		"emri": "Komentet te home",
-    		"rssUrl": "https://lapsi.al/sdfsd/feed/"
-    	}
-    ],
-    "logo": "https://lapsi.al/wp-content/uploads/2017/09/logo.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/rss/logo/lapsi.jpg",
     "faqejaWeb": "https://lapsi.al",
     "vendi": "Tirane"
   },
-
-
- {
+  {
     "emri": "opozita",
     "pershkrimi": "opozita.al",
     "rssUrl": "http://www.opozita.com/feed/",
-    "kategoriteRss": [
-    	{
-    		"emri": "Komentet",
-    		"rssUrl": "http://www.opozita.com/comments/feed/"
-    	}
-    ],
-    "logo": "http://www.opozita.com/wp-content/uploads/2017/06/download-1.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/rss/logo/opozita.jpg",
     "faqejaWeb": "http://www.opozita.com",
     "vendi": "Tirane"
   },
-
-
- {
-    "emri": "panorama",
-    "pershkrimi": "panorama.com.al",
-    "rssUrl": "http://www.panorama.com.al/feed/",
-    "logo": "http://www.panorama.com.al/wp-content/static/logotkryesore/logo-1-300x42.png",
-    "faqejaWeb": "http://www.panorama.com.al",
-    "vendi": "Tirane"
-  },
-
-
- {
+  {
     "emri": "reporter",
     "pershkrimi": "reporter.al",
     "rssUrl": "https://www.reporter.al/feed/",
-    "kategoriteRss": [
-    	{
-    		"emri": "Komentet",
-    		"rssUrl": "https://www.reporter.al/comments/feed/"
-    	}
-    ],
-    "logo": "https://www.reporter.al/wp-content/themes/reporter.al/img/logo.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/rss/logo/reporter.jpg",
     "faqejaWeb": "https://www.reporter.al",
     "vendi": "Tirane"
   },
-
- {
+  {
     "emri": "monitor",
     "pershkrimi": "monitor.al",
     "rssUrl": "https://www.monitor.al/feed/",
-    "logo": "https://www.monitor.al/multimedia/logo.png",
+    "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/rss/logo/monitor.jpg",
     "faqejaWeb": "https://www.monitor.al/",
     "vendi": "Tirane"
   },
@@ -346,40 +119,14 @@
     "emri": "shekulli",
     "pershkrimi": "gazeta shekulli",
     "rssUrl": "http://shekulli.com.al/feed/",
-    "kategoriteRss": [
-    	{
-    		"emri": "Komentet",
-    		"rssUrl": "http://shekulli.com.al/comments/feed/"
-    	}
-    ],
-    "logo": "http://shekulli.com.al/wp-content/themes/tok_shekulli/images/nav-logo.png",
+     "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/rss/logo/shekulli.jpg",
     "faqejaWeb": "http://shekulli.com.al",
     "vendi": "Tirane"
   },
 
- {
-    "emri": "gazeta-shqip",
-    "pershkrimi": "nga top channel",
-    "rssUrl": "https://www.gazeta-shqip.com/feed/",
-    "kategoriteRss": [
-    	{
-    		"emri": "Komentet",
-    		"rssUrl": "https://www.gazeta-shqip.com/comments/feed/"
-    	}
-    ],
-    "logo": "https://www.gazeta-shqip.com/wp-content/uploads/2019/05/Logo_Shqip-e-re.png",
-    "faqejaWeb": "https://www.gazeta-shqip.com",
-    "vendi": "Tirane"
-  },
 
- {
-    "emri": "syri",
-    "pershkrimi": "syri.net",
-    "rssUrl": "https://www.syri.net/rss",
-    "logo": "https://www.syri.net/public/syri/repository/logo.svg",
-    "faqejaWeb": "https://www.syri.net",
-    "vendi": "Tirane"
-  },
+
+
 
    {
     "emri": "telegrafi",
@@ -391,31 +138,11 @@
   },
 
 
- {
-    "emri": "gazetatema",
-    "pershkrimi": "gazetatema.net",
-    "rssUrl": "http://www.gazetatema.net/feed/",
-    "kategoriteRss": [
-    	{
-    		"emri": "Komentet",
-    		"rssUrl": "http://www.gazetatema.net/comments/feed/"
-    	}
-    ],
-    "logo": "http://www.gazetatema.net/wp-content/uploads/2016/01/logo1.jpg",
-    "faqejaWeb": "http://www.gazetatema.net",
-    "vendi": "Tirane"
-  },
 
    {
     "emri": "tiranatimes",
     "pershkrimi": "tiranatimes.com",
     "rssUrl": "http://www.tiranatimes.com/?feed=rss2",
-    "kategoriteRss": [
-    	{
-    		"emri": "Komentet",
-    		"rssUrl": "http://www.tiranatimes.com/?feed=comments-rss2"
-    	}
-    ],
     "logo": "http://www.gazetatema.net/wp-content/uploads/2016/01/logo1.jpg",
     "faqejaWeb": "http://www.tiranatimes.com/",
     "vendi": "Tirane"
@@ -427,16 +154,6 @@
     "emri": "Zeri Popullit",
     "pershkrimi": "Gazeta e partise socialiste",
     "rssUrl": "http://zeri-popullit.al/feed/",
-    "kategoriteRss": [
-    	{
-    		"emri": "Komentet",
-    		"rssUrl": "http://zeri-popullit.al/comments/feed/"
-    	},
-    	{
-    		"emri": "Komentet te news",
-    		"rssUrl": "http://zeri-popullit.al/news/feed/"
-    	}
-    ],
     "logo": "http://45b.c50.myftpupload.com/wp-content/uploads/2018/07/zeripopullitlogo-300x78.png",
     "faqejaWeb": "http://zeri-popullit.al",
     "vendi": "Tirane"
@@ -444,32 +161,9 @@
 
 
  {
-    "emri": "tiranatimes",
-    "pershkrimi": "tiranatimes.com",
-    "rssUrl": "http://www.tiranatimes.com/?feed=rss2",
-    "kategoriteRss": [
-    	{
-    		"emri": "Komentet",
-    		"rssUrl": "http://www.gazetatema.net/comments/feed/"
-    	}
-    ],
-    "logo": "http://www.gazetatema.net/wp-content/uploads/2016/01/logo1.jpg",
-    "faqejaWeb": "http://www.tiranatimes.com/",
-    "vendi": "Tirane"
-  },
-
-
-
- {
     "emri": "standard",
     "pershkrimi": "standard.al",
     "rssUrl": "http://www.standard.al/feed/",
-    "kategoriteRss": [
-    	{
-    		"emri": "Komentet",
-    		"rssUrl": "http://www.standard.al/comments/feed/"
-    	}
-    ],
     "logo": "http://www.gazetatema.net/wp-content/uploads/2016/01/logo1.jpg",
     "faqejaWeb": "http://www.standard.al",
     "vendi": "Tirane"
@@ -479,16 +173,6 @@
     "emri": "Rilindja Demokratike",
     "pershkrimi": "Gazeta e partise dempkratike",
     "rssUrl": "http://www.rd.al/feed/",
-    "kategoriteRss": [
-    	{
-    		"emri": "Komentet",
-    		"rssUrl": "http://www.rd.al/comments/feed/"
-    	},
-    	{
-    		"emri": "Komentet te news",
-    		"rssUrl": "http://www.rd.al/news/feed/"
-    	}
-    ],
     "logo": "http://www.rd.al/wp-content/uploads/2016/03/RD-Logo-web-4.png",
     "faqejaWeb": "http://www.rd.al",
     "vendi": "Tirane"
@@ -499,16 +183,23 @@
     "emri": "gazeta ekonomia",
     "pershkrimi": "gazetaekonomia.com",
     "rssUrl": "http://gazetaekonomia.com/feed/",
-    "kategoriteRss": [
-    	{
-    		"emri": "Komentet",
-    		"rssUrl": "http://gazetaekonomia.com/comments/feed/"
-    	}
-    ],
     "logo": "https://i1.wp.com/gazetaekonomia.com/wp-content/uploads/2017/10/gekonomia_logo.png?w=336",
     "faqejaWeb": "http://gazetaekonomia.com",
     "vendi": "Tirane"
   }
+
+
+
+
+  {
+    "emri": "ballikombit",
+    "pershkrimi": "gazeta balliste",
+    "rssUrl": "http://www.ballikombit.org/index.php?option=com_rss&feed=RSS2.0&no_html=1",
+    "logo": "http://www.ballikombit.org/templates/waterandstone/images/logo.gif",
+    "faqejaWeb": "http://www.ballikombit.org",
+    "vendi": "Tirana"
+  },
+
 
 
 
