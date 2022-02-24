@@ -86,7 +86,7 @@
         {
         "emri": "Radio Viciana",
         "pershkrimi": "Ship live",
-        "streamingUrl": "http://radioviciana.org:8000/;",
+        "streamingUrl": "http://radioviciana.org:8020/",
         "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/viciana.png",
         "faqejaWeb": "http://www.radioviciana.com",
         "webRadio": true,
@@ -849,7 +849,7 @@
     {
         "emri": "Radio Vicianum",
         "pershkrimi": "Radio Vicianum 105.7 MHz FM stereo rr. \"Faruk Beqiri\" pn 42000 Vushtrri, Kosova",
-        "streamingUrl": "http://85.214.122.123:8055/;",
+        "streamingUrl": "http://radioviciana.org:8055",
         "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/vicianum.png",
         "faqejaWeb": "https://radio-vicianum.com/",
         "webRadio": true,
