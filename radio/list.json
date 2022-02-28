@@ -38,6 +38,19 @@
         "orderz": 0
     },
     {
+        "emri": "Radio Alba",
+        "pershkrimi": "Shqiperi",
+        "streamingUrl": "http://server.radioalba.eu:8000/stream",
+        "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/alba.png",
+        "faqejaWeb": "http://www.radioalba.eu",
+        "webRadio": true,
+        "publikuar": true,
+        "vendi": "zvicer",
+        "scrapeUrl": "",
+        "zgjedhur": false,
+        "orderz": 0
+    },
+    {
         "emri": "Radio Dashuria",
         "pershkrimi": "Internet",
         "streamingUrl": "https://www.radioking.com/play/radiodashuria1",
