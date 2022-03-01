@@ -14,7 +14,7 @@
     {
         "emri": "Alpo Radio",
         "pershkrimi": "Vizioni i ri ne jugun e Shqiperise - Gjirokaster Shqiperi",
-        "streamingUrl": "https://cast.albhost.gr/proxy/alpomedia?mp=/stream",
+        "streamingUrl": "https://cast.az-streamingserver.com/proxy/jjayjtzm?mp=/stream",
         "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/alpo.png",
         "faqejaWeb": "http://www.alpomedia.com",
         "webRadio": true,
