@@ -64,6 +64,19 @@
         "orderz": 0
     },
     {
+        "emri": "Radio Natyra",
+        "pershkrimi": "Cdo natė duke filluar nga ora 20:00 / 22:00 , Ndėrsa nga ora 22:00 / 24:00 Emisioni i Nates.",
+        "streamingUrl": "https://mars.streamerr.co/8266/stream",
+        "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/natyra.png",
+        "faqejaWeb": "http://www.radionatyra.com/",
+        "webRadio": true,
+        "publikuar": true,
+        "vendi": "anglia",
+        "scrapeUrl": "",
+        "zgjedhur": true,
+        "orderz": 0
+    },
+    {
         "emri": "Top Albania Radio",
         "pershkrimi": "Top Albania Radio promovon muzikën më të zgjedhur shqiptare dhe të huaj, me edicionet informative dhe nje larmi programesh kulturore. 18 vjet transmetim, për të dhënë më të mirën.",
         "streamingUrl": "https://live.top-media.al/tar",
@@ -254,19 +267,6 @@
         "webRadio": true,
         "publikuar": true,
         "vendi": "shqiperia",
-        "scrapeUrl": "",
-        "zgjedhur": false,
-        "orderz": 0
-    },
-    {
-        "emri": "Radio Natyra",
-        "pershkrimi": "Cdo natė duke filluar nga ora 20:00 / 22:00 , Ndėrsa nga ora 22:00 / 24:00 Emisioni i Nates.",
-        "streamingUrl": "https://radiocast.ch/8014/;",
-        "logo": "https://raw.githubusercontent.com/eltonkola/mediashqip/master/radio/logo/natyra.png",
-        "faqejaWeb": "http://www.radionatyra.com/",
-        "webRadio": true,
-        "publikuar": true,
-        "vendi": "anglia",
         "scrapeUrl": "",
         "zgjedhur": false,
         "orderz": 0
